@@ -259,12 +259,12 @@ h1 {
   background-color: #AEE2FF;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px black;
-  align-items: center;
 }
 .titcontact{
   font-family: 'Concert One', sans-serif;
   color: #0a0a23;
   font-size: 1.2rem;
+  text-align: center;
 }
 .contacto .row {
   width: 100%;
@@ -348,6 +348,13 @@ footer {
 
 .iconos-redes-sociales a:hover i {
   color: black;
+}
+
+.derechos-de-autor {
+  font-size: 15px;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
 
 
